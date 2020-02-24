@@ -1,0 +1,28 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "mocha": "^7.0.1"
+  },
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golferty888/javascript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golferty888/javascript-learning/issues"
+  },
+  "homepage": "https://github.com/golferty888/javascript-learning#readme"
+}
